@@ -1,0 +1,16 @@
+body{
+    margin: 20px;
+}
+h1{
+    text-align: center;
+}
+td img{
+    margin: 0;
+    padding: 0;
+    margin-left: 50px;
+}
+.profil{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
